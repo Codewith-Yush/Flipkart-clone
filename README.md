@@ -1,9 +1,7 @@
 
 # Flipkart Clone Website
 
-This repository contains a Flipkart clone website built using plain HTML and CSS. The purpose of this project is to recreate the basic functionality and design of the popular e-commerce website Flipkart.
-
-you can check it out [here](https://codewith-yush.github.io/TWSIP_Flipkart-clone/) 
+This repository contains a Flipkart clone website built using plain HTML and CSS. The purpose of this project is to recreate the basic functionality and design of the popular e-commerce website Flipkart.you can check it out [here](https://codewith-yush.github.io/TWSIP_Flipkart-clone/) 
 
 # Screenshot
 ![Logo](SC.png)
